@@ -1,0 +1,10 @@
+[package]
+name = "friend_circles"
+version = "0.1.0"
+authors = ["Spencer Yue <spencer.yue@appdynamics.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0.48"
